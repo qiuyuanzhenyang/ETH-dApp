@@ -15,5 +15,11 @@
     "prettier:check": "prettier --ignore-unknown --no-error-on-unmatched-pattern --ignore-path .prettierignore --check .",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1"
   }
 }
