@@ -1,3 +1,1 @@
 https://zenn.dev/nacekimura/scraps/87ffd33040eb50
-getBalanceのコード
-0x9B8249AD9062f450Dc13d51a9ebd5BAab7D22750
